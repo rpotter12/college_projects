@@ -9,7 +9,7 @@ g) Any news other than cricket will also be updated. */
 
 #include<iostream>
 using namespace std;
-void player;
+void player();
 void runs(int a);
 void team()
 {
